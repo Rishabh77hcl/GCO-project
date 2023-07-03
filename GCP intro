@@ -1,0 +1,20 @@
+Intro GCP
+IAAS(all hardware provided)
+PAAS(all hardware provided with runtime and OS)
+SAAS(all hardware provided with runtime OS and data with application)
+
+Accessing GCP resources
+Networking
+Cloud IAM
+Compute
+Cloud Storage
+GCP tools
+Migration
+
+
+
+There are 4 ways to access GCP -
+Web console
+CLI
+Client Library 
+Rest APIs
